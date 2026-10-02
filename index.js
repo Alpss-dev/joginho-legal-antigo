@@ -47,7 +47,7 @@ const produtos = [
         "Boneco Funko Pop de Golden Freddy",
         "Funko Pop",
         "R$ 550",
-        "https://images.unsplash.com/photo-1608889825103-eb5ed706b51e?w=500"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_AA2R0rxTNKmLQftFb6_xMIIWCB84OR_8hWVFAkqxA&s=10"
     ],
 
     [
@@ -128,7 +128,6 @@ function mostrarProdutosFiltrados() {
 
         // Cria a div do produto
         const divF = document.createElement("div");
-
         divF.className = "produto";
 
 

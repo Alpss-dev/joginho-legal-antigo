@@ -7,6 +7,10 @@ body{
     justify-content: center;
     flex-wrap:wrap;
     padding-right: 5%;
+    padding-top: 2%;
+    margin-top: 3%;
+    border-radius: 5%;
+    background-color: bisque;
 }
 .produto{
     display: flex;
@@ -15,7 +19,7 @@ body{
     align-items: center;
     text-align: center;
     background-color:beige ;
-    margin-left: 5em;
+    margin-left: 5%;
     margin-bottom: 5%;
     width:20%;
     border-radius: 5%;      
